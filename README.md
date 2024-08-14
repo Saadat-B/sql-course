@@ -18,5 +18,5 @@
 
 ![image](https://github.com/user-attachments/assets/11fd1b94-408b-4ab5-95c3-26142ff4088a)
 
-## SQL ADVANCED COURSE completed
+## SQL ADVANCED COURSE completed!
 ![image](https://github.com/user-attachments/assets/50b65c06-90de-4cca-a6cb-1b931d1490f0)
